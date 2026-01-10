@@ -16,7 +16,7 @@ If you haven't already, clone the course materials repo at https://github.com/UC
 3. ~~Copy yourname.html to uchicagowebdev.com using the instructions in class.~~ Free point!
 4. Copy the URL of your repository and submit it on Canvas.
 5. Post a link to your deployed page in the #web-development channel on the [UChicago CS Slack](https://cs-uchicago.slack.com).
-
+here is the link: https://xuankfcv50.github.io/Web_dep_lab-1/ziyang_xuan.html
 #### Part 2
 
 Using only vanilla HTML markup, update your yourname.html file to include:
